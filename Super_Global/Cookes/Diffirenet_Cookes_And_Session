@@ -1,0 +1,5 @@
+Cookes ----------->> Save Data On Browser Client
+Use Function setcookie(Username,"Value Ex->(Mohamed)" ,time() + "مدة الوقت" , "Play On What Page Ex -> "/" All ")
+
+Session ---------->> Save Data On Server 
+Use Function session_start();

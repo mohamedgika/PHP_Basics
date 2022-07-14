@@ -1,0 +1,4 @@
+$_GET  ---->> Edit By Url And Code . 
+$_POST ---->> Edit By Code Only .
+$_SESSION --->> Use In Other PHP File 
+------------->>Take Data And Search More On Place If This Data Is True Or Not
